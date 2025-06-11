@@ -73,7 +73,7 @@ const Hero = () => {
       <div
         className="hidden md:block w-full md:w-1/2 bg-cover bg-center"
         style={{
-          backgroundImage: `url('/hero-bg.png')`,
+          backgroundImage: `url('hero-bg.png')`,
         }}
       >
         <div className="w-full h-full bg-black opacity-20"></div>
