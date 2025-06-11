@@ -15,7 +15,7 @@ const ChooseUs = () => {
           transition={{ duration: 0.6 }}
         >
           <img
-            src="/choose-us.png" 
+            src="choose-us.png" 
             alt="Why Choose Us"
             className="rounded-lg shadow-lg"
           />
