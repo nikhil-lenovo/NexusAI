@@ -12,7 +12,7 @@ const About = () => {
             className="md:order-2"
           >
             <img 
-              src={'/about-image.png'}
+              src={'about-image.png'}
               alt="About us" 
               className="w-full rounded-lg shadow-lg"
               onError={(e) => {
